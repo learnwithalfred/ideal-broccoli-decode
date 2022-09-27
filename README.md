@@ -30,5 +30,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-# ideal-broccoli-decode
+This project is [MIT](./MIT.md) licensed.
