@@ -6,6 +6,10 @@
 
 To get a local copy up and running follow these simple example steps.
 
+## Test
+
+Run `ruby index.rb` in root folder to test code
+
 👤 **Alfred Boateng**
 
 - GitHub: [@learnwithalfred](https://github.com/learnwithalfred)
