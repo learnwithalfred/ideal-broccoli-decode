@@ -16,6 +16,12 @@ Run `ruby index.rb` in root folder to test code
 - Twitter: [@kb_alfred](https://twitter.com/kb_alfred)
 - LinkedIn: [@learnwithalfred](https://www.linkedin.com/in/learnwithalfred/)
 
+👤 **Hamayoun Ali**
+
+- GitHub: [@Hamayounali](https://github.com/Hamayounali)
+- Twitter: [@hamayounAli6](https://twitter.com/hamayounAli6)
+- LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/humayoon-ali-663ba2239)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!

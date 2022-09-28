@@ -78,7 +78,3 @@ def decode_message(string)
   decoded_message
 end
 
-puts decode_message('.-') # A
-puts decode_message('-- -.--   -. .- -- .') # MY NAME
-puts decode_message('-- -.--   -. .- -- .   .. .-.-.-') # MY NAME I.
-puts decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...') # A BOX FULL OF RUBIES
